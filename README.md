@@ -9,8 +9,6 @@ IF YOU WOULD LIKE TO CONTINUE THIS PROJECT, I WILL KEEP AN EYE ON IT AND TEST AN
 Batch Apple ID Creator
 ----------------------
 
-If possible, please donate as I spend my free time fixing and upkeeping this script.
-
 ### Purpose & Features
 
 Deploying a great quantity of iOS devices means creating a great
