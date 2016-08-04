@@ -35,6 +35,8 @@ script without actually creating the Apple ID.
 ### Instructions
 
 A template CSV file is included. Create csv file. Then run the script.
+When running this via Script Editor, the Messages tab of the log will show the account being created
+to help you recover and start where you left off if a script error occurs.
 
 
 #### CSV file tips
