@@ -1,4 +1,4 @@
-﻿(*
+(*
 code to find all elements on iTunes page, for use with "verifyPage()"
 
 tell application "System Events"
