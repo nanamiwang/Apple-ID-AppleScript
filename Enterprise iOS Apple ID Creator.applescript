@@ -57,7 +57,6 @@ set currentUserNumber to 0
 
 -- UI location of HTML content container, which can change with iTunes versions. Set value after iTunes launch.
 global htmlContentUiElement
--- This variable set in verifyPage handler.
 
 --Used for completing every step in the process, except actually creating the Apple ID. Also Pauses the script at various locations so the user can verify everything is working properly.
 property dryRun : false
